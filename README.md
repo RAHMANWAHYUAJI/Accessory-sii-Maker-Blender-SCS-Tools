@@ -48,7 +48,7 @@ Sebuah addon Blender yang dirancang untuk menyederhanakan dan mengotomatisasi pr
 
 #### Metode 1: Install dari File .zip (Disarankan)
 
-1.  Unduh versi terbaru addon dari halaman **[Releases](https://github.com/NAMA_ANDA/NAMA_REPO/releases)** di GitHub.
+1.  Unduh versi terbaru addon dari halaman **[Releases](https://github.com/RAHMANWAHYUAJI/Accessory-sii-Maker-Blender-SCS-Tools/releases)** di GitHub.
 2.  Buka Blender, masuk ke menu `Edit > Preferences > Add-ons`.
 3.  Klik tombol **Install...** di bagian atas.
 4.  Arahkan ke file `.zip` yang baru saja Anda unduh, lalu klik **Install Add-on**.
@@ -99,7 +99,7 @@ Proyek ini dilisensikan di bawah **GNU General Public License v3.0**. Lihat file
 
 ## 🤝 Kontribusi & Laporan Masalah
 
-Jika Anda menemukan masalah (bug) atau memiliki saran untuk fitur baru, silakan buat laporan melalui tab **[Issues](https://github.com/NAMA_ANDA/NAMA_REPO/issues)** di repositori ini.
+Jika Anda menemukan masalah (bug) atau memiliki saran untuk fitur baru, silakan buat laporan melalui tab **[Issues](https://github.com/RAHMANWAHYUAJI/Accessory-sii-Maker-Blender-SCS-Tools/issues)** di repositori ini.
 
 ---
 
