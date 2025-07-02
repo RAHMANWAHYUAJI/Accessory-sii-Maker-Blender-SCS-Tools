@@ -2,7 +2,7 @@
 
 Sebuah addon Blender yang dirancang untuk menyederhanakan dan mengotomatisasi proses pembuatan file `.sii` (SCS Definition File). Fitur ini sangat esensial bagi para *modder* game simulasi truk seperti Euro Truck Simulator 2 (ETS2) atau American Truck Simulator (ATS).
 
-![Panel SII Generator](https://via.placeholder.com/800x500.png?text=Screenshot+Panel+Addon+Anda+di+Sini)
+[![addon-layout.png](https://i.postimg.cc/YSqbDThN/addon-layout.png)](https://postimg.cc/sMqYv6P1)
 
 ---
 
@@ -23,6 +23,24 @@ Sebuah addon Blender yang dirancang untuk menyederhanakan dan mengotomatisasi pr
 
 * **Blender 2.79** (untuk versi lawas) atau **Blender 2.80+** (untuk versi terbaru).
 * Addon ini dirancang untuk alur kerja modding game berbasis SCS Software (ETS2/ATS).
+
+**Preview Blender 2.79 vvv**
+
+![image](https://github.com/user-attachments/assets/de109679-dda5-4e82-a535-18db7aaff44b)
+
+
+
+
+**Preview Blender 2.93 vvv**
+
+![image](https://github.com/user-attachments/assets/fa5e4698-cc83-4309-88ab-6395fc219dab)
+
+
+
+
+**Preview Blender 3.6 vvv**
+
+![image](https://github.com/user-attachments/assets/6f5ec1ae-fe16-45a9-8a12-c7913d0282e6)
 
 ---
 
@@ -59,6 +77,8 @@ Sebelum menggunakan generator, Anda **wajib** mengatur path utama proyek mod And
 * Masuk ke `Edit > Preferences > Add-ons`.
 * Cari addon "SCS Tools" dan buka pengaturannya.
 * Isi field **SCS Project Base Path** dengan path ke folder utama mod Anda (folder yang berisi folder `def`, `vehicle`, dll).
+![image](https://github.com/user-attachments/assets/02622943-6253-4f4a-a124-6786c350c72a)
+
 
 ### 2. Alur Kerja Dasar
 
